@@ -1,0 +1,22 @@
+books: [
+	{
+		id: 1,
+		title: "The Catcher in the Rye",
+		isbn: "9780316769488",
+		author: "J.D. Salinger",
+		genre: "Fiction",
+		condition: "Like New",
+		price: "$14.99",
+		email: "example@email.com"
+	},
+	{
+		id: 2
+		title: "The Great Gatsby",
+		isbn: "0743273567",
+		author: "Fitzgerald, F. Scott",
+		genre: "Fiction",
+		condition: "Used, Worn",
+		price: "$3.49",
+		email: "fitzfan@att.net"
+	}
+]
